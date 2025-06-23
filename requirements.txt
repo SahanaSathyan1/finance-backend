@@ -1,9 +1,6 @@
 flask
 flask-cors
 gunicorn
-<<<<<<< HEAD
-=======
 requests
 python-dotenv
 google-generativeai
->>>>>>> 4f6dfbe (Add all required dependencies to requirements.txt)
